@@ -1,0 +1,7 @@
+[
+  {
+    "url": "https://api.hcaptcha.com/checksiteconfig?v=b1c4f881f907b3e342c934423e51c70d282dc1a1&host=accounts.hcaptcha.com&sitekey=a",
+    "status": 200,
+    "body": "{\"features\":{\"enc_get_req\":true,\"andint\":true},\"c\":{\"type\":\"hsw\",\"req\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmIjowLCJzIjo0LCJ0IjoidyIsImQiOiJOUHp6ZWRZU2hITnBkWGNQd3orNkhidFVEVXdvanlEbW1FdWxtM1JtSGk0TUxSZTZRWGJIVnZlMVl6ckdFL0h5K2NYL3I0bEtCVVA5RnBMRTdHa08wemFySzY4TU11K0pBS3FPQ1d2alYwSmVIV0ptalY4eUQyUWJVd1R2MS9kOElHUkZqTjR4T0lHakZxVnRuZE1VQkQ3WjhnWktRdTZBdDd5eVdyNUVQNFp0aWVsV0doRGJCZ0FjTkpFQ3ZPZFBDTHRkN2VaRm9TTUhrczZWd3NIVk5iZXgrSk5YRlhLL251Nm9QNDNyWDAxQ2diSUwrQ2VCcWRNMUJHa1VxcEJFOHd6MFlqcVF5aUJDR0VOYnZSU0o3UT09OEpTb2NUZE03T0dSaGN5SSIsImwiOiIvYy9mY2Y5YjUwM2M1MzIzYjNhZTYzYjE0Y2Y2YzcxOWRjMmY5YWY5YTMwY2FiN2NhODRmMGU5OTA0ZTJiMmZhZWMwIiwiaSI6InNoYTI1Ni1FTmU0ZytWQTV4NXl6NTBacCsxNlhVMnpUZDlpY2tERzEzcVgrYk5lUmo4PSIsImUiOjE3OTM0NTExNzMsIm4iOiJoc3ciLCJjIjoxMDAwfQ.uto0scWNF5I9qJsqz2hz7JT1LKicMA3sClIGnoOEpI4\"},\"pass\":true}"
+  }
+]

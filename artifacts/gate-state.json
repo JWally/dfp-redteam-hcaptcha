@@ -1,0 +1,18 @@
+{
+  "hasWidget": true,
+  "widgetHTML": "<div id=\"hcaptcha-demo\" class=\"h-captcha\" data-sitekey=\"a5f74b19-9e45-40e0-b45d-47ff91b7a6c2\" data-callback=\"onSuccess\" data-expired-callback=\"onExpire\">\n                <iframe src=\"https://newassets.hcaptcha.com/captcha/v1/b1c4f881f907b3e342c934423e51c70d282dc1a1/static/hcaptcha.html#frame=checkbo",
+  "iframes": [
+    {
+      "src": "e%22%3A%22normal%22%2C%22confirm-nav%22%3Afalse%7D",
+      "w": "",
+      "h": "",
+      "style": "pointer-events: auto; background-color: rgba(255, 255, 255, 0); border-radius: 4px; width: 302px; height: 76px; overflow: hidden;"
+    },
+    {
+      "src": "e%22%3A%22normal%22%2C%22confirm-nav%22%3Afalse%7D",
+      "w": "",
+      "h": "",
+      "style": "border: 0px; z-index: 2000000000; position: relative;"
+    }
+  ]
+}

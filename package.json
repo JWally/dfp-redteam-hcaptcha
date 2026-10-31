@@ -1,0 +1,9 @@
+{
+  "name": "dfp-redteam-hcaptcha",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "hCaptcha client-side assessment: JWT-ticketed hash-pinned WASM secure module (hsw.js), server-side gate fires under automation, client is not the boundary (authorized, read-only, 2026-10-31)",
+  "scripts": { "flow": "node scripts/hc-flow.mjs", "gate": "node scripts/hc-gate.mjs" },
+  "dependencies": { "playwright": "^1" }
+}

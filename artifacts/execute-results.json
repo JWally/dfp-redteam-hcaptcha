@@ -1,0 +1,26 @@
+{
+  "res": {
+    "throwErr": "TypeError: Cannot read properties of undefined (reading 'then')"
+  },
+  "out": {
+    "wasmCalled": false,
+    "strs": []
+  },
+  "api": [
+    [
+      "https://api.hcaptcha.com/checksiteconfig?v=b1c4f881f907b3e342c934423e51c70d282dc1a1&host=accounts.hcaptcha.com",
+      200,
+      "{\"features\":{\"enc_get_req\":true,\"andint\":true},\"c\":{\"type\":\"hsw\",\"req\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmIjowLCJzIjo0LCJ0IjoidyIsImQiOiJ4LzF1bnFDTWMrbnJvdlNGc3dKcmg4b2ZsUWU0ajNrUkNzclVkVlh4cS9PZFV0Y2xwQThtMHUwc2ZaVUZEamRlQVJzQTl6VW1SYnVZaElwU1hpWnBXdjBCa2VHajFGNEQ2TlZqQ2sxYktUaytWN285MHFaYXU5MUliYnFSY0hTenJsalpUSnpJbTdoa1VDeG1aeGxmbnVINSs3Nnp3dGZjcDJPbS93enpqbDBUWlRwdFd6RmZaTUkzNWZiRGFaei9"
+    ],
+    [
+      "https://api.hcaptcha.com/getcaptcha/a5f74b19-9e45-40e0-b45d-47ff91b7a6c2",
+      200,
+      "{\"c\":{\"type\":\"hsj\",\"req\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmIjowLCJzIjo0LCJ0IjoiaiIsImQiOiJENDFzdVhpaGRUdjdjb3ZRcmdjcHBWMHhpS3BuNmEyQWRJS1ZCMUF2L0pER0ozaVczZGpsK0cwbnZMSGNveXQ3OU1hTFNqTlgweXpsRldoU0FCOG8zd0hGa3ZnQ01uODY0SDZrU3NZcUl3YjM1RXJuTFlobnpqR1RLTXkrR1VYL0YvMGZaMlFjWWdoaGZ2bXlaZVNaMkVwWW9DWlVBUmF1QVhpZHgzOUZPRmVMQytnZ0gzT2dYc1ZPd0NLejVCbFBmd0xrTUMxWFcwMEdHU1FFVlJmYjBIa2dIOHlmU2V0R0k0R"
+    ],
+    [
+      "https://api.hcaptcha.com/getcaptcha/a5f74b19-9e45-40e0-b45d-47ff91b7a6c2",
+      200,
+      "�[�CJ�xl�c��\u000eX�aeE�\n�g9���m��@¸[8)'O6�OL�Q;Y�m&4ē��:��q\u0015&�2;�0�\u0005�\u001fL2��\u0002|I���cJ6\u0005Au\u0016�#�x%\t�\u0019�UQ܏?v�\u0003��c\u0001�0�;�é�&n�{%[D�g��25�q�X0�_%r̓�ִ�|��xO!!�y��\u001f�H땙���&�A�b6�d�C��x\\e18c�k\u001d/�\"��\u0004}9X�Yg\n\u001e0\u000e��\"�\b`�7\u0012bpg\u0019�\u0003�\u0005۹v�𣜕��x��&�*�\u0004�������an�e�,�����\bvLdܮ��\u001amԌ�9�r�Ӂ&@�8kd�P�e����#&�\u001e���$��o\tv�v�$ ��\u00140�а��\u0007�h\u000ex�W�MX��}�����\u001ab��/�f����T���b�\rO\n\f�M�\u001eoG71�Ҳ��ʐ(pH��\u000e�h\u0002��5�)E~�\u000e\"I�\u0003��\n���O\u001fN�p�Q\t^�F\u001d���\u000b)�\u0017�XC"
+    ]
+  ]
+}
